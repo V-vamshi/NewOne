@@ -145,9 +145,3 @@
   from { transform: translateY(-50px); opacity: 0; }
   to { transform: translateY(0); opacity: 1; }
 }
-.head_up {
-  background-color: black;
-  min-width: 100%;
-  min-height: 50px;
-  color: white;
-}
